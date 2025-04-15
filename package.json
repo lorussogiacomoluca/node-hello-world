@@ -1,0 +1,24 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "Esercizio #38",
+  "keywords": [
+    "nodejs",
+    "npm"
+  ],
+  "homepage": "https://github.com/lorussogiacomoluca/node-hello-world#readme",
+  "bugs": {
+    "url": "https://github.com/lorussogiacomoluca/node-hello-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorussogiacomoluca/node-hello-world.git"
+  },
+  "license": "ISC",
+  "author": "Giacomo Luca Lorusso",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
